@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc0d07fe-8359-443e-95e9-5c6238f101d5" name="138.68.68.130" url="http://138.68.68.130/~anna.karutina/">
+        <fileTransfer host="138.68.68.130" port="22" rootFolder="/home/anna.karutina/public/" accessType="SFTP" password="dfebdfd9dfe1dfc6df98dfdadf9edf9bdf98" username="anna.karutina">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
